@@ -265,7 +265,7 @@ function App() {
                     CO-FOUNDER AND MANAGING DIRECTOR
                   </p>
 
-                  <h3>Mrs. Devi Ghandhi</h3>
+                  <h3>Mrs. Devi Gandhi</h3>
 
                   <p className="management-description">
                     Guiding business operations and development
